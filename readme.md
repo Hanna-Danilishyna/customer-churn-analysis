@@ -64,19 +64,19 @@ They have not made a purchase in the last 90 days
 churn = 1 if recency > 90 else 0
 ## Exploratory Data Analysis
 ## Churn distribution
-![Churn distribution](../figures/churn_distribution.png)
+![Churn distribution](./figures/churn_distribution.png)
 
 ## Recency vs Churn
-![Recency by Churn](../figures/recency_by_churn.png)
+![Recency by Churn](./figures/recency_by_churn.png)
 
 ## Revenue vs Churn
-![Revenue by Churn](../figures/revenue_by_churn.png)
+![Revenue by Churn](./figures/revenue_by_churn.png)
 
 ## Orders vs Churn
-![Orders by Churn](../figures/orders_by_churn.png)
+![Orders by Churn](./figures/orders_by_churn.png)
 
 ## Feature Correlation
-![Feature Correlation](../figures/correlation_heatmap.png)
+![Feature Correlation](./figures/correlation_heatmap.png)
 
 ## Key Business Insights
 1. Recency is the strongest churn driver
