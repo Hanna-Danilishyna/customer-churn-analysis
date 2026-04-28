@@ -128,6 +128,7 @@ SQL (feature engineering)
 Jupyter Notebook
 Git/GitHub
 ## Project Structure
+```
 customer-churn-analysis/
 │
 ├── data/
@@ -137,7 +138,7 @@ customer-churn-analysis/
 ├── figures/
 ├── models/
 └── README.md
-
+```
 ## Summary
 
 This project demonstrates an end-to-end data analytics workflow:
